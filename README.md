@@ -5,7 +5,7 @@ A simple and secure command-line tool built in **Python** to generate strong, cu
 ## ✨ Features
 
 * **Customizable Length:** Users can specify the exact length of the password.
-* **Character Selection:** Allows selection of character types: **Letters** (A-Z, a-z), **Numbers** (0-9), and **Symbols** ($\#, \!, \$, \dots$).
+* **Character Selection:** Allows selection of character types: **Letters** (A-Z, a-z), **Numbers** (0-9), and **Symbols** 
 * **Guaranteed Complexity:** The generator ensures that at least one character of each selected type is included, maximizing security.
 * **Shuffled Output:** Uses the `random.shuffle` function to prevent predictable patterns in the generated password.
 
